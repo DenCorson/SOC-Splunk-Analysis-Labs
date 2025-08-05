@@ -46,3 +46,12 @@ Still on Tier 1 SOC shift, with the same Apache logs datasets. After spike of 40
   - Block suspicious IP
   - Continue monitoring logs
   - Escalation not required yet.
+
+-------------------
+
+## Screenshots
+
+<img width="718" height="439" alt="image" src="https://github.com/user-attachments/assets/7a7f5471-dd6e-4416-b2b4-25ac0ff57e88" />
+
+<img width="1140" height="342" alt="image" src="https://github.com/user-attachments/assets/9b807ab9-d99d-4cb1-86b4-68d11e2d8d98" />
+
